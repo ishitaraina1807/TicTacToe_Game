@@ -93,6 +93,7 @@ button{
     color: #3B3039;
     font-size: 1.5vw;
     font-family: 'Open Sans', sans-serif;
+    cursor: pointer; 
 }
 .stats{
     display: flex;
