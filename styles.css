@@ -95,6 +95,9 @@ button{
     font-family: 'Open Sans', sans-serif;
     cursor: pointer; 
 }
+button:hover{
+    color: #F7C3C7;
+}
 .stats{
     display: flex;
 }
